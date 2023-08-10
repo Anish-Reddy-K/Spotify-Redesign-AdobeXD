@@ -3,7 +3,7 @@
 Link: https://xd.adobe.com/view/d1aac063-093f-4619-a833-bd283e4a380b-84f9/
 
 Welcome to the GitHub repository for my Spotify app redesign clone project created using Adobe XD. This project aims to provide an enhanced user experience while maintaining the core functionalities of the original Spotify app. Here's a brief overview of the process and design principles applied:
-
+ 
 ## Project Overview
 
 ### Scope Definition and User Insights
